@@ -17,3 +17,5 @@ I used the hardware abstraction layer libraries provided by STM to communicate w
 This project file can be compiled using STM32CubeIDE. Download the project, open the IDE and import the project from your file system. 
 
 ## Image
+A render of the final camera module with the two lenses of the camera pointing downwards to the athletics track.
+![alt text](https://github.com/sonbesie/final_year_project_firmware/blob/main/assembly_s.JPG?raw=true)
