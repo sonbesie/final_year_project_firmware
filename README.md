@@ -11,7 +11,7 @@ The Nucleo-F767ZI firmware for my final year project. The main project files wri
 6. network.c and network.h : The custom layer two network protocol is implemented in this library.
 7. main.c and main.h : The main program. The main() function is located here.
 
-I used the hardware abstraction layer libraries provided by STM to communicate with the peripherals. These libraries are in the Drivers directory and are the property of STMicroelectronics.
+I used the hardware abstraction layer libraries provided by STMicroelectronics to communicate with the peripherals. These libraries are in the Drivers directory and are the property of STMicroelectronics.
 
 ## Open
 This project can be compiled using the STM32Cube IDE. Download the project, open the IDE and import the project from your file system. 
